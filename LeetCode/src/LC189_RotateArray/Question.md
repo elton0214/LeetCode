@@ -32,4 +32,4 @@ rotate 2 steps to the right: [3,99,-1,-100]
 * don't use swap, it's too slow
 * use `System.arraycopy(來源陣列, 開始擷取的第一個位置 , 新陣列, 開始放置的第一個位置, 要擷取的長度);`
 
-![image-20211116172713043](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20211116172713043.png)
+![image-20211122182337369](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20211122182337369.png)
